@@ -1,0 +1,15 @@
+.icons{
+	font-size: 4rem;
+	color:blueviolet;
+
+}
+
+.svg-image{
+	width:4rem;
+}
+
+svg{
+	display: block;
+	color:blueviolet;
+	width: 4rem;
+}
