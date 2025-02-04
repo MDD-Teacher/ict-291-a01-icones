@@ -24,7 +24,7 @@ Cet exercice demande de **faire quelques recherches**. Il y a des ressources dis
 
 > 📌 **Exemple d'affichage attendu :**
 >
-> ![Exemple d'affichage SVG](chemin/vers/image-exemple.png)
+> ![Exemple d'affichage SVG](exemple-bootstrap.png)
 
 On peut aussi afficher les fichiers **SVG** avec la balise `<svg>`. Cela permet d’intégrer directement le contenu du fichier dans l’HTML.
 
