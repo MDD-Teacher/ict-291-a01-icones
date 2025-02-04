@@ -24,7 +24,7 @@ Cet exercice demande de **faire quelques recherches**. Il y a des ressources dis
 
 > 📌 **Exemple d'affichage attendu :**
 >
-> ![Exemple d'affichage SVG](exemple-bootstrap.png)
+> ![Exemple d'affichage SVG](exemple-main.png)
 
 On peut aussi afficher les fichiers **SVG** avec la balise `<svg>`. Cela permet d’intégrer directement le contenu du fichier dans l’HTML.
 
@@ -51,7 +51,7 @@ On peut aussi afficher les fichiers **SVG** avec la balise `<svg>`. Cela permet 
 5. Modifier l’apparence de cette icône pour qu’elle ressemble à ceci (**taille : 2rem**) :
 
 > 📌 **Exemple d'affichage attendu :**
->
+> ![Exemple d'affichage SVG](exemple-terre.png)
 > 🌍 *(Icône Font Awesome de la Terre agrandie à 2rem)*
 
 ---
@@ -64,5 +64,5 @@ On peut aussi afficher les fichiers **SVG** avec la balise `<svg>`. Cela permet 
 4. Modifier l’apparence de cette icône pour qu’elle ressemble à ceci (**taille : 4rem**) :
 
 > 📌 **Exemple d'affichage attendu :**
->
+> ![Exemple d'affichage SVG](exemple-bootstrap.png)
 > ⌚ *(Icône Bootstrap agrandie à 4rem)*
